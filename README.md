@@ -1,5 +1,5 @@
 # 💫 About Me:
-⇨ 🙃 he/him<br>⇨  \</Programmer\><br>⇨ 🎮 Gamer<br>⇨ 💯 Android<br>⇨ 🖥️ Windows/Pop!_OS<br>⇨ 🟩 https://play.google.com/store/apps/details?id=de.adivius.gymweb
+⇨ 🙃 he/him<br>⇨  \<Programmer/\><br>⇨ 🎮 Gamer<br>⇨ 💯 Android<br>⇨ 🖥️ Windows/Pop!_OS<br>⇨ 🟩 https://play.google.com/store/apps/details?id=de.adivius.gymweb
 
 
 ## 🌐 Socials:
