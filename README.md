@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Stack Overflow](https://adivius.ddns.net) 
+[Website](https://adivius.ddns.net/)
 
 # 💻 Tech Stack:
 ///
