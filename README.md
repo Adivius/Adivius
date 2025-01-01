@@ -1,5 +1,5 @@
 # 💫 About Me:
-⇨ 🙃 he/him<br>⇨ \<Programmer/\><br>⇨ 🎮 Gamer<br>⇨ 📱Pixel 8 Android 14<br>⇨ 🖥️ Ubuntu 23.10 / Windows 11<br>⇨ 🟩 https://play.google.com/store/apps/details?id=de.adivius.gymweb
+⇨ 🙃 he/him<br>⇨ \<Programmer/\><br>⇨ 🎮 Gamer<br>⇨ 📱Pixel 8 Android 15<br>⇨ 🖥️ Ubuntu 24.10 / Arch Linux / Windows 11<br>⇨ 🟩 https://play.google.com/store/apps/details?id=de.adivius.gymweb
 
 
 ## 🌐 Socials:
