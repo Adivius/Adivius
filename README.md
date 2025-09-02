@@ -15,7 +15,7 @@ Here are some of the reasons why:
 
 ## Alternatives
 
-I’ve chosen to move my code to [Codeberg](https://codeberg.org), a community-driven, non-profit platform based on [Gitea](https://gitea.io), which is itself FOSS.
+I’ve chosen to move my code to [Codeberg](https://codeberg.org), a community-driven, non-profit platform based on [Forgejo](https://forgejo.org/), which is itself FOSS.
 Codeberg aligns better with the principles of openness, transparency, and user freedom.
 
 ## Resources
